@@ -15,6 +15,6 @@ Bu kütüphaneleri yüklemek için aşağıdaki komutu kullanabilirsiniz:
 
 ```bash
 pip install nextcord requests instaloader python-dotenv
-
+```
 # .env Dosyası
 .env Dosyasındaki token'e Discord botunuzun tokenini, SpotifyClientID'ye Spotify API ID'nizi ve SpotifyClientSECRET'e Spotify API Secretinizi girmeniz gerekir
