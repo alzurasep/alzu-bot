@@ -18,3 +18,5 @@ pip install nextcord requests instaloader python-dotenv
 ```
 # .env Dosyası
 .env Dosyasındaki token'e Discord botunuzun tokenini, SpotifyClientID'ye Spotify API ID'nizi ve SpotifyClientSECRET'e Spotify API Secretinizi girmeniz gerekir
+ # Güncelleme 1.1
+ 'hava' komudunu kullanabilmeniz için [collectAPI](https://collectapi.com/) tokeninizi .env dosyasindaki collectToken'e girmeniz gerekir
